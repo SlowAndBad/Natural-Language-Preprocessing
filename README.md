@@ -1,1 +1,2 @@
 # Natural-Language-Preprocessing
+Tried to perform preprocessing on the tweet texts from the twitter_samples datset from the NLTK library. I have not used the process_tweet() method of the python utils library which can do this but used methods from nltk library as well as re library in order to understand the different steps of Preprocessing such as Tokenizing the string ,Lowercasing, Removing stop words and punctuation and Stemming and also with intention to get familiar with the frameworks as well. 
